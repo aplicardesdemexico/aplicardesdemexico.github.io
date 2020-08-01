@@ -8,6 +8,8 @@ main:
     url: requisitos/index.html
   - title: "Quiénes Somos?"
     url: quienessomos/index.html
+  - title: "Check"
+    url: _pages/projects.md
   - title: "Contacto"
     url: contacto/index.html
   # - title: "Sample Posts"
