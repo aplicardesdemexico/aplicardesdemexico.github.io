@@ -1,5 +1,5 @@
 ---
-title: 'Aplicar a Doctorados'
+title: 'Cómo aplicar'
 layout: single
 author_profile: true
 excerpt: 'Quieres aplicar a doctorados en Economía? Aquí te damos información al respecto!'
