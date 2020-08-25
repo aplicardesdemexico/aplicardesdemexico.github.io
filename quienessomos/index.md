@@ -43,7 +43,7 @@ sidebar_sort_order: 4
 
 
 <p align="center">
-  <img width="300" height="300" src="mauOlivares.jpeg">
+  <img width="300" height="300" src="fotos/mauOlivares.jpeg">
 
 
 

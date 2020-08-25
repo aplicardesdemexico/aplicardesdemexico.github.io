@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+#markdown:         redcarpet
 #highlighter:      pygments
 
 # Permalinks
@@ -11,7 +11,7 @@ title:            Aplicar Desde México
 #tagline:          'A Jekyll theme'
 description:      'Reduciendo la asimetría de información'
 #url:               http://hyde.getpoole.com
-baseurl:           /opcion2/
+baseurl:
 
 author:
   name:           'aplicardesdemexico@gmail.com'
