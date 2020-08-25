@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            Aplicar Desde México
 #tagline:          'A Jekyll theme'
 description:      'Reduciendo la asimetría de información'
-url:               https://aplicardesdemexico.github.io
+url:               https://aplicardesdemexico.github.io/
 baseurl:           /
 
 author:
