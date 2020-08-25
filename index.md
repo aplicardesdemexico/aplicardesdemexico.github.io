@@ -1,13 +1,19 @@
 ---
-title: 'Aplicar a Doctorados'
-layout: single
-author_profile: true
-excerpt: 'Quieres aplicar a doctorados en Economía? Aquí te damos información al respecto!'
-header:
-  overlay_image: /images/university.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+layout: default
+title: Home
 ---
 
-# Aplicacion al doctorado
+# Sobre Aplicar Desde México
 
-Esta página tiene información al respecto de cómo aplicar a un doctorado de economía
+Esta página surge del deseo de compilar y facilitar el acceso a información relacionada a aplicaciones para doctorado en Economía en el extranjero.
+
+
+### Contáctanos
+
+Si tienes cualquier pregunta ó comentario, por favor mándanos un correo a [aplicardesdemexico@gmail.com](mailto:aplicardesdemexico@gmail.com) o mandanos un correo directamente [Quiénes Somos](/quienessomos)
+
+---
+
+Agradecemos a [Aplicar Desde Argentina](https://aplicardesdeargentina.weebly.com/)
+
+**Las opiniones expresadas en esta página surgen de experiencia propia y no representan recomendaciones de ninguna institución educativa**
