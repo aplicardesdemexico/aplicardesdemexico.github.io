@@ -11,7 +11,7 @@ title:            Aplicar Desde México
 #tagline:          'A Jekyll theme'
 description:      'Reduciendo la asimetría de información'
 #url:               http://hyde.getpoole.com
-baseurl:
+baseurl:            /
 
 author:
   name:           'aplicardesdemexico@gmail.com'
