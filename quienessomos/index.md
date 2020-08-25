@@ -9,7 +9,7 @@ sidebar_sort_order: 4
 
 
 <p align="center">
-  <img width="250" height="280" src="salomeAguilar.png">
+  <img width="250" height="280" src="fotos/salomeAguilar.png">
 
 
 
@@ -27,7 +27,7 @@ sidebar_sort_order: 4
 
 
 <p align="center">
-  <img width="250" height="250" src="JRMVG.JPG">
+  <img width="250" height="250" src="fotos/JRMVG.JPG">
 
 
 
@@ -59,7 +59,7 @@ sidebar_sort_order: 4
 
 <p align="center">
 
-  <img width="300" height="200" src="Alain_Pineda_KH.jpg">
+  <img width="300" height="200" src="fotos/Alain_Pineda_KH.jpg">
     <b>Alain Pineda</b> es un estudiante de doctorado en economía en Stanford. Sus temas de investigación son economía laboral y desarrollo económico con un enfoque en informalidad laboral. Antes de empezar el doctorado Alain trabajó en la Dirección General de Investigación Económica del Banco de México. Obtuvo su licenciatura y maestría en economía por el ITAM. Alain es chilango de corazón pero creció en la CDMX, Morelia y Cuernavaca.
     <p align="center">
       <ul>
@@ -72,7 +72,7 @@ sidebar_sort_order: 4
 
 
 <p align="center">
-  <img width="250" height="250" src="danielRamos.jpg">
+  <img width="250" height="250" src="fotos/danielRamos.jpg">
 
   <b>Daniel Ramos</b> es un estudiante de doctorado de cuarto año en HBS. Sus temas de investigación son economía urbana, comercio y desarrollo. Estudió una licenciatura en economía y una maestría en teoría economómica en el ITAM. Antes de aplicar al doctorado trabajó como asistente de investigación en el ITAM durante dos años.
 
@@ -90,7 +90,7 @@ sidebar_sort_order: 4
 
 
 <p align="center">
-  <img width="250" height="300" src="FotoGVB.jpeg">
+  <img width="250" height="300" src="fotos/FotoGVB.jpeg">
 
 
 

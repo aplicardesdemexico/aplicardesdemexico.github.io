@@ -10,7 +10,7 @@ Esta página surge del deseo de compilar y facilitar el acceso a información re
 
 ### Contáctanos
 
-Si tienes cualquier pregunta ó comentario, por favor mándanos un correo a [aplicardesdemexico@gmail.com](mailto:aplicardesdemexico@gmail.com) o mandanos un correo directamente [Quiénes Somos](/quienessomos)
+Si tienes cualquier pregunta ó comentario, por favor mándanos un correo a [aplicardesdemexico@gmail.com](mailto:aplicardesdemexico@gmail.com) o contáctanos directamente a través de [Quiénes Somos](/quienessomos)
 
 ---
 
