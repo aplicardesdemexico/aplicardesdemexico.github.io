@@ -12,7 +12,6 @@ sidebar_sort_order: 4
   <img width="250" height="280" src="fotos/salomeAguilar.png">
 
 
-
   <b>Salomé Aguilar</b>  es una estudiante de doctorado en economía en MIT. A ella le interesa la economía de la educación, como áreas de concentración estudia finanzas públicas y economía laboral. Antes de empezar el doctorado Salomé estudió una maestría en International Education Policy Analysis en Stanford y estudió su licenciatura en Economía en el ITAM. Durante su licenciatura y su maestría trabajó como asistente de investigación. Ella es de la Ciudad de México.
 
 
