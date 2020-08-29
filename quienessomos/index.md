@@ -2,6 +2,8 @@
 layout: page
 title: '¿Quiénes Somos?'
 sidebar_sort_order: 4
+sidebar_link: true
+
 ---
 
 
