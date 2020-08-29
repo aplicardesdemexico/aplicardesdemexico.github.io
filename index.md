@@ -10,7 +10,7 @@ Esta página surge del deseo de compilar y facilitar el acceso a información re
 
 ### Contáctanos
 
-Si tienes cualquier pregunta o comentario, mándanos un correo a [aplicardesdemexico@gmail.com](mailto:aplicardesdemexico@gmail.com) o contáctanos directamente a través de [Quiénes Somos](/quienessomos). [Presentación](/assets/archivos/PhDEconomiaPresentacion.pdf)
+Si quieres que demos una [presentación](/assets/archivos/PhDEconomiaPresentacion.pdf) a algún grupo de estudiantes respecto a doctorados en economía, o tienes cualquier pregunta/comentario, mándanos un correo a [aplicardesdemexico@gmail.com](mailto:aplicardesdemexico@gmail.com) o contáctanos directamente a través de [Quiénes Somos](/quienessomos).
 
 ---
 
