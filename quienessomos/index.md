@@ -94,7 +94,7 @@ sidebar_link: true
 <p align="center">
   <img width="250" height="250" src="fotos/danielRamos.jpg">
 
-  <b>Daniel Ramos</b> es un estudiante de doctorado de cuarto año en HBS. Sus temas de investigación son economía urbana, comercio y desarrollo. Estudió una licenciatura en economía y una maestría en teoría economómica en el ITAM. Antes de aplicar al doctorado trabajó como asistente de investigación en el ITAM durante dos años.
+  <b>Daniel Ramos</b> es un estudiante de doctorado en la escuela de Negocios de Harvard. Sus temas de investigación son economía urbana, comercio y desarrollo. Estudió una licenciatura en economía y una maestría en teoría economómica en el ITAM. Antes de aplicar al doctorado trabajó como asistente de investigación en el ITAM durante dos años.
 
 
       <p align="center">
