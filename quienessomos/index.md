@@ -28,6 +28,25 @@ sidebar_link: true
 
 
 <p align="center">
+  <img width="280" height="280" src="fotos/luisBaldomero.jpeg">
+
+
+  <b>Luis Baldomero Quintana</b> se graduó del doctorado en Economía en la Universidad de Michigan y es profesor asistente en The College of William & Mary, en Virginia. Sus áreas de investigación son Comercio Internacional y Desarrollo Económico. Luis hizo la Licenciatura en Economía en el Tecnológico de Monterrey, Campus Monterrey, y trabajo en varias oficinas del Gobierno Federal. Creció en Tijuana durante el boom del Tratado de Libre Comercio, y siempre lo verás disfrutando de correr 5 km llueve, truene o relampagueé.
+
+
+        <p align="center">
+          <ul>
+          <li>Contacto: <a href="mailto:labaldomeroqui@wm.edu">labaldomeroqui@wm.edu</a></li>
+          <li>Página personal:   <a href="https://sites.google.com/view/luisbaldomeroquintana/home">https://sites.google.com/view/luisbaldomeroquintana/home</a></li>
+          </ul>
+        </p>
+</p>
+
+
+
+
+
+<p align="center">
   <img width="250" height="250" src="fotos/JRMVG.JPG">
 
 
