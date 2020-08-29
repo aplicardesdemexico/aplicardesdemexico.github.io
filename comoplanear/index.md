@@ -10,7 +10,7 @@ Aquí recopilamos algunos tips de cómo planear tu aplicación y qué tienes que
 
 - [Lista de Universidades](#listaDeUniversidades)
 - [GRE](#gre)
-- [TOEFL](#toefl)
+- [Examenes de Dominio de Idioma](#toefl)
 - [Cartas de Recomendación](#cartas)
 - [CV](#cv)
 - [Statement of Purpose](#statementOfPurpose)
