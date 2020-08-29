@@ -25,10 +25,10 @@ Aquí recopilamos algunos tips de cómo planear tu aplicación y qué tienes que
 Es importante que sepas exactamente a qué programas quieres aplicar. Para ayudarte en la organización te recomendamos llenar un excel con las siguientes categorías:
 - Nombre de la universidad
 - Nombre del programa
-- ranking en tus preferencias (¿Qué programa te gusta más?)
-- link a la descripción del programa
-- link al portal de aplicación al programa
-- link a los requisitos de aplicación del programa
+- Ranking en tus preferencias (¿Qué programa te gusta más?)
+- Link a la descripción del programa
+- Link al portal de aplicación al programa
+- Link a los requisitos de aplicación del programa
 - Deadline de la aplicación
 - Costo de la aplicación
 - Código para el envío del TOEFL
@@ -44,11 +44,11 @@ Comentarios adicionales (si los programas tienen funding, etc.)
 ### ¿Para qué sirve?
 
 Este excel va a ser clave para:
-- organizar tus tiempos
-- planear tu presupuesto
-- escribir tu statement of purpose
-- mandar los exámenes y transcripts a las universidades
-- compartir con los profesores que te van a dar las cartas de recomendación, así ellos tendrán una idea clara de los deadlines, tus preferencias y darte sugerencias de programas o universidades a los que puedes aplicar y en los que tal vez no has pensado.
+- Organizar tus tiempos
+- Planear tu presupuesto
+- Escribir tu statement of purpose
+- Mandar los exámenes y transcripts a las universidades
+- Compartir con los profesores que te van a dar las cartas de recomendación, así ellos tendrán una idea clara de los deadlines, tus preferencias y darte sugerencias de programas o universidades a los que puedes aplicar y en los que tal vez no has pensado.
 
 
 Este excel es de los primeros pasos para el proceso de aplicaciones.
@@ -64,6 +64,7 @@ A mi me interesan los temas de educación. Yo llené mi lista viendo la lista de
 Mientras vayas llenando tu excel te vas a dar cuenta por ejemplo que en algunas universidades no hay profesores que compartan tus intereses, entonces las puedes quitar aunque te las hayan recomendado.
 
 ### Otros comentarios:
+
 En promedio la gente aplica a entre 10 y 20 universidades.
 PhD en Economía hay en el departamento de economía de las universidades pero a veces también en la escuela de negocios, entonces a veces puedes aplicar a dos programas en la misma universidad.
 Dependiendo de tus preferencias los doctorados en Public Policy, Educación y Ciencia Política a veces tienen profesores que son economistas y son un buen lugar para hacer investigación en economía. Si hay una universidad que realmente te gusta mucho puedes aplicar a más de un programa ahí.
@@ -88,7 +89,7 @@ Para muchas universidades necesitas una calificación que te deje por encima del
 
 El día del exámen recibes tu calificación de quant y verbal inmediatamente después de terminar el examen. Y la computadora te pregunta si quieres mandar las calificaciones a 4 universidades gratis. Si tuviste una buena calificación puedes enviarlo a las 4 que tengan el deadline primero. Si no tuviste una buena calificación debes decidir en ese momento si quieres o no enviarla. Ese mismo día en tu casa puedes mandar el examen a las demás universidades con un costo de 27 USD por universidad. Puedes leer más aquí.
 
-### Como y cuando reservar el exámen:
+### Cómo y cuándo reservar el exámen:
 
 El GRE se reserva online, el costo de un intento es de 205 USD. Comprar el examen incluye dos exámenes de prueba.
 El examen lo tomas en lugares designados cuando hay fecha disponible entonces es bueno planearlo con tiempo. Si no vives en una ciudad grande, es probable que tengas que ir a otra ciudad a tomarlo. Pero aun en la CDMX se agotan las fechas.
@@ -97,7 +98,7 @@ Tienes que tomar el GRE al menos entre 10 y 15 días antes de tu primera deadlin
 Hecho el GRE durante 21 días no lo puedes repetir. Eso quiere decir que si quieres dejarte tiempo para repetirlo una vez,la primera vez lo tienes que tomar al menos 36 días antes de tu primera deadline (si hay fecha disponible!). Para no estresarte lo mejor es tomarlo un par de meses antes.
 Las calificaciones que recibes en el examen son válidas por 5 años.
 
-### Tips para estudiar para el GRE:
+### Tips para estudiar para el GRE
 
 Al menos hay que empezar  a estudiar un mes antes de tu primer GRE.
 Mucha  gente recomienda hacer un GRE completo de prueba antes de empezar a estudiar uno a la mitad de tus estudios y uno antes del examen.
@@ -112,7 +113,7 @@ En Magoosh puedes hacer ejercicios con un timer. Esto te ayuda a estar al pendie
 Magoosh también lleva cuenta de que ejercicios has resuelto bien o mal y de qué tema tratan para que sepas en qué enfocarte al momento de estudiar.
 
 
-### Tips para el día del examen:
+### Tips para el día del examen
 
 Tomate el tiempo para llegar temprano y si llegas antes normalmente te dejan pasar.
 Un tip importante es que si te estas tardando demasiado tiempo en una pregunta la puedes marcar y regresar después (Magoosh tiene esta función para que la uses cuando estudies). Es importante que te acostumbres a hacer eso porque en el examen te puedes encontrar una pregunta difícil y si te quedas ahí demasiado tiempo, podrías no terminar la sección, lo cual es muy grave para tu puntaje.
@@ -122,7 +123,7 @@ En el examen real va a haber una sección extra de prueba que no se califica y p
 Mucha gente repite el GRE, es un examen muy estresante y ojalá no fuera un requisito! Apoyate en tus amigos y si quieres consejos más específicos no dudes en contactarnos!
 Aquí puedes leer más y reservar el examen: [https://www.ets.org/gre](https://www.ets.org/gre)
 
-# <a name="toefl"></a>Exámenes de Dominio de Idioma: Toefl
+# <a name="toefl"></a>Exámenes de Dominio de Idioma
 
 
 
@@ -131,8 +132,8 @@ Aquí puedes leer más y reservar el examen: [https://www.ets.org/gre](https://w
 
 La gran mayoría de los programas doctorales son conducidos completamente en inglés; por tanto, las instituciones a las que apliques te pedirán que compruebes tu dominio para hablar, escribir, escuchar y leer el idioma mediante algún examen estandarizado.
 
-Las universidades en Estados Unidos te piden el Test of English as a Foreign Language (TOEFL). La versión del examen que deberás tomar en México es Internet-based test (iBT).
-Para aplicar a universidades en Europa tendrás que investigar cuál es el examen que cada institución solicita. Algunas de ellas (la mayoría en Reino Unido) solamente aceptan el puntaje del International English Language Testing System (IELTS).
+Las universidades en Estados Unidos te piden el **Test of English as a Foreign Language (TOEFL)**. La versión del examen que deberás tomar en México es _Internet-based test (iBT)_.
+Para aplicar a universidades en Europa tendrás que investigar cuál es el examen que cada institución solicita. Algunas de ellas (la mayoría en Reino Unido) solamente aceptan el puntaje del **International English Language Testing System (IELTS)**.
 
 En esta sección nos enfocaremos a describir las características del TOEFL.
 
@@ -195,7 +196,7 @@ Procura que tus recomendadores también sean doctores en economía y que tengan 
 
 Cuando realices tu aplicación mediante los portales en línea, el sistema te solicitará escribas el correo de tus (tres) recomendadores. Los correos deben ser cuentas institucionales (es decir, no cuentas personales como gmail o outlook). Tus recomendadores recibirán un correo por parte de cada institución con las instrucciones para enviar su carta.
 
-### Tips y recomendaciones:
+### Tips y recomendaciones
 
 1. 	Piensa con mucho detenimiento qué personas pueden darte una buena carta de recomendación.
 2. 	En algunos casos es más conveniente pedirle una carta de recomendación a un profesor o jefe que te conozca bien y pueda hablar de tu trabajo a un profesor “famoso” que no tenga muchas cosas que decir de ti.
@@ -225,7 +226,7 @@ Estas son algunas secciones que recomendamos incluir:
 - Skills. Idiomas que hablas, conocimientos de programación etc.
 - Cursos importantes que has llevado.
 
-# <a name="statementOfPurpose"></a>Statement of Purpose (ejemplo-sugerir contactar segun tu perfil)
+# <a name="statementOfPurpose"></a>Statement of Purpose
 
 ### ¿Qué es?
 
@@ -263,7 +264,7 @@ Pide a personas de confianza que lean tu carta y te den sus opiniones. Estas per
 
 
 
-# <a name="writingSample"></a>Writing Sample (tesis), RR
+# <a name="writingSample"></a>Writing Sample
 
 Este requisito suele ser opcional y aprovecharlo, puede servir para diferenciar tu perfil de los otros candidatos. El objetivo es dar evidencia de tu trabajo como investigador. Recuerda que el writing sample debe ser en inglés.
 Si cuentas con una publicación en una revista científica, este es el lugar para mostrarlo.
@@ -271,7 +272,7 @@ Si no es el caso, como la mayoria, no te preocupes hay otras alternativas:
 Manda tu tesis de licenciatura o maestría, de la que estés más orgullosa. En este caso, puede ser buena idea redactarla en inglés desde el principio y si quedo muy bien envíala a concursos nacionales de tesis en economía como el premio Banamex o Tlacaelel.
 Otra opción es escribir una propuesta de investigación, alguna idea que hayas discutido con tus recomendadores y que ayude a conectar con la historia que cuentan tus cartas y el resto de tu aplicacion.
 
-# <a name="transcripts"></a>Trascripts (traduccion, envio, ¿Buenas Calificaciones?)
+# <a name="transcripts"></a>Trascripts
 
 Un requisito importante para aplicar a las universidades es tener buenas calificaciones. Pero ¿Cuál es la calificación mínima para aplicar? Esta es una pregunta difícil que debes abordar con tus profesores.Todo depende del resto de tu perfil, tu experiencia y los programas a los que quieres aplicar. Entonces esta pregunta tiene una respuesta distinta para cada persona.
 Lo que te podemos decir es que si no tienes las calificaciones que quieres, puedes hacer una maestría y las universidades únicamente van a tomar en cuenta tus calificaciones más recientes. Tambíen puede pasar que tu promedio en general no sea muy bueno pero tengas muy buenas calificaciones en materias más relevantes para las universidades, como son matemáticas y economía y entonces puedes resaltar ese punto.
