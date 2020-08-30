@@ -43,6 +43,7 @@ sidebar_link: true
 ### Recursos para Python
 
 * [Python Data Science Handbook, Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Quantitative Economics, Tom Sargent, John Stachurski](https://python.quantecon.org/)
 
 ### Recursos para ArcGIS
 
