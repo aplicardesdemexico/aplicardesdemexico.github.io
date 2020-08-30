@@ -9,11 +9,8 @@ sidebar_link: true
 # Recursos Útiles para Investigación
 
 
-## Recomendaciones para aplicar al doctorado
 
-* [Recomendaciones de Alvin Christian](https://www.alvinchristian.com/resources)
-
-## Consejos
+## Recursos para Investigación
 
 * [Recomendaciones de Jonathan Dingel](https://tradediversion.net/2018/12/17/research-resources-that-i-recommend/)
 * [Recomendaciones de Don Davis](http://www.columbia.edu/~drd28/Thesis%20Research.pdf)
@@ -22,10 +19,15 @@ sidebar_link: true
 * [Recursos y consejos de Jennifer Doleac](http://jenniferdoleac.com/resources/)
 
 
+## Recomendaciones para aplicar al doctorado
+
+* [Recomendaciones de Alvin Christian](https://www.alvinchristian.com/resources)
+
+
+
+
 
 ## Software
-
-
 
 ### Organización de Proyectos
 
@@ -40,6 +42,7 @@ sidebar_link: true
 
 ### Recursos para Python
 
+* [Python Data Science Handbook, Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ### Recursos para ArcGIS
 
