@@ -9,6 +9,10 @@ sidebar_link: true
 # Recursos Útiles para Investigación
 
 
+## Recomendaciones para aplicar al doctorado
+
+* [Recomendaciones de Alvin Christian](https://www.alvinchristian.com/resources)
+
 ## Consejos
 
 * [Recomendaciones de Jonathan Dingel](https://tradediversion.net/2018/12/17/research-resources-that-i-recommend/)
