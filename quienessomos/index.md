@@ -37,7 +37,7 @@ sidebar_link: true
         <p align="center">
           <ul>
           <li>Contacto: <a href="mailto:labaldomeroqui@wm.edu">labaldomeroqui@wm.edu</a></li>
-          <li>Página personal:   <a href="https://sites.google.com/view/luisbaldomeroquintana/home">https://sites.google.com/view/luisbaldomeroquintana/home</a></li>
+          <li>Página personal:   <a href="https://sites.google.com/view/luisbaldomeroquintana">https://sites.google.com/view/luisbaldomeroquintana</a></li>
           </ul>
         </p>
 </p>
@@ -80,6 +80,7 @@ sidebar_link: true
 <p align="center">
 
   <img width="300" height="200" src="fotos/Alain_Pineda_KH.jpg">
+
     <b>Alain Pineda</b> es un estudiante de doctorado en economía en Stanford. Sus temas de investigación son economía laboral y desarrollo económico con un enfoque en informalidad laboral. Antes de empezar el doctorado Alain trabajó en la Dirección General de Investigación Económica del Banco de México. Obtuvo su licenciatura y maestría en economía por el ITAM. Alain es chilango de corazón pero creció en la CDMX, Morelia y Cuernavaca.
     <p align="center">
       <ul>
