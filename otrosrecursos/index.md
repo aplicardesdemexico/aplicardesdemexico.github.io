@@ -6,8 +6,17 @@ sidebar_link: true
 
 ---
 
-# Recursos Útiles para Investigación
+# Recursos Útiles
 
+
+## Ofertas de trabajo como asistente de investigación
+
+* Sigan an [Econ RA](https://twitter.com/econ_ra) en Twitter quienes mantienen una lista de oportunidades de trabajo como Asistente de Investigación
+
+
+## Recomendaciones para aplicar al doctorado
+
+* [Recomendaciones de Alvin Christian](https://www.alvinchristian.com/resources)
 
 
 ## Recursos para Investigación
@@ -18,10 +27,6 @@ sidebar_link: true
 * [Consejos de Keith Head](http://blogs.ubc.ca/khead/research/research-advice/formula)
 * [Recursos y consejos de Jennifer Doleac](http://jenniferdoleac.com/resources/)
 
-
-## Recomendaciones para aplicar al doctorado
-
-* [Recomendaciones de Alvin Christian](https://www.alvinchristian.com/resources)
 
 
 
