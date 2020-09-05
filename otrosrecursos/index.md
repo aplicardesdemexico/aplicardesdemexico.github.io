@@ -26,7 +26,7 @@ sidebar_link: true
 * [Cómo escribir un referee report](https://www.aeaweb.org/articles?id=10.1257/jep.31.1.231)
 * [Consejos de Keith Head](http://blogs.ubc.ca/khead/research/research-advice/formula)
 * [Recursos y consejos de Jennifer Doleac](http://jenniferdoleac.com/resources/)
-
+* [Cómo encontrar datos y otros consejos, Sebastián Tello Trillo](https://sebastiantellotrillo.com/Resources-6d05598c2f8f494eb969eec7cef79606)
 
 
 
