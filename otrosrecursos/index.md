@@ -26,7 +26,7 @@ sidebar_link: true
 * [Cómo escribir un referee report](https://www.aeaweb.org/articles?id=10.1257/jep.31.1.231)
 * [Consejos de Keith Head](http://blogs.ubc.ca/khead/research/research-advice/formula)
 * [Recursos y consejos de Jennifer Doleac](http://jenniferdoleac.com/resources/)
-* [Cómo encontrar datos y otros consejos, Sebastián Tello Trillo](https://sebastiantellotrillo.com/Resources-6d05598c2f8f494eb969eec7cef79606)
+* [Cómo encontrar datos y otros consejos de Sebastián Tello Trillo](https://sebastiantellotrillo.com/Resources-6d05598c2f8f494eb969eec7cef79606)
 
 
 
@@ -43,12 +43,12 @@ sidebar_link: true
 ### Recursos para R
 * [R for Data Science, Grolemund y Wickham](https://r4ds.had.co.nz/)
 * [Visualización de Datos en R, Kieran Healy](https://socviz.co/)
-* [Análisis Geográfico en R, Lovelace, Nowosad, Muenchow](https://bookdown.org/robinlovelace/geocompr/)
+* [Análisis Geográfico en R, Lovelace, Nowosad y Muenchow](https://bookdown.org/robinlovelace/geocompr/)
 
 ### Recursos para Python
 
 * [Python Data Science Handbook, Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
-* [Quantitative Economics, Tom Sargent, John Stachurski](https://python.quantecon.org/)
+* [Quantitative Economics, Tom Sargent y John Stachurski](https://python.quantecon.org/)
 
 ### Recursos para ArcGIS
 
