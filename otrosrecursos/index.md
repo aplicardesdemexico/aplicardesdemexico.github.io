@@ -44,6 +44,7 @@ sidebar_link: true
 * [R for Data Science, Grolemund y Wickham](https://r4ds.had.co.nz/)
 * [Visualización de Datos en R, Kieran Healy](https://socviz.co/)
 * [Análisis Geográfico en R, Lovelace, Nowosad y Muenchow](https://bookdown.org/robinlovelace/geocompr/)
+* [Notas de Econometría en R, Fiona Burlig](https://www.fionaburlig.com/teaching/are212)
 
 ### Recursos para Python
 
