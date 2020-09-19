@@ -30,7 +30,7 @@ sidebar_link: true
 
 
 
-## Software
+# Software
 
 ### Organización de Proyectos
 
