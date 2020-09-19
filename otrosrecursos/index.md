@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Otros Recursos
-sidebar_sort_order: 5
+sidebar_sort_order: 4
 sidebar_link: true
 
 ---
