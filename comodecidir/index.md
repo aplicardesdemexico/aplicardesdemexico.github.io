@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cómo Decidir
-sidebar_sort_order: 3
+sidebar_sort_order: 1
 sidebar_link: true
 
 ---
