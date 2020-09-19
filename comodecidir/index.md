@@ -7,7 +7,7 @@ sidebar_link: true
 ---
 
 
-En esta página recopilamos información respecto a qué es un
+En esta página recopilamos información respecto a qué es un Doctorado y los elementos a considerar para decidir si es lo que te interesa hacer.
 
 - [¿Qué es un PhD?](#queEsPhd)
   - [¿Qué es un PhD en Economía](#phdEconomia)
