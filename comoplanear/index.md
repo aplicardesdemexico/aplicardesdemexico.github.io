@@ -15,7 +15,6 @@ La planeación para aplicar depende de en qué etapa de tus estudios te encuentr
 - [¿Hiciste maestría en Economía?](#maestriaEconomia)
 - [¿Hiciste una maestría profesionalizante (Maestría en Políticas Públicas/Administración Públicas o Finanzas)?](#maestriaEconomiaProfesionalizante)
 - [¿Hiciste una maestría en Estadística, Comp. Sciences, Matemáticas Aplicadas, o Investigación de Operaciones?](#maestriaEstadistica)
-- [¿Aún estás en la carrera y crees que te podría interesar un doctorado en el futuro?](#carrera)
 
 
 ## <a name="estudiante"></a>¿Aún estás en la carrera y crees que te podría interesar un doctorado en el futuro?
