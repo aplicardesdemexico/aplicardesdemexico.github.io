@@ -6,7 +6,7 @@ sidebar_link: true
 
 ---
 
-La planeación para aplicar depende de en qué etapa de tus estudios te encuentres: 
+La planeación para aplicar depende de en qué etapa de tus estudios te encuentres:
 
 
 - [¿Aún estás en la carrera y crees que te podría interesar un doctorado en el futuro?](#estudiante)
@@ -27,10 +27,10 @@ La planeación para aplicar depende de en qué etapa de tus estudios te encuentr
 Si estás estudiando la carrera y has pensado en la posibilidad de hacer un doctorado, estás en el mejor momento para (i) preparar tu perfil de tal manera que tengas una buena solicitud y (ii) explorar si te gusta la investigación. No olvides que el doctorado se trata de convertirte en un investigador, así que la mejor señal que puedes mandar es que lo has hecho antes, lo disfrutas y eres bueno haciéndolo. Además quieres mostrar que técnicamente estás preparado. Si tuviéramos que resumir el proceso en los pasos más importantes, serían los siguientes:
 
 
-* **Cursos** Inscribe todas las clases avanzadas de economía que puedas (poder = sacar una buena calificación). Además es crucial que lleves el curso de análisis real y el de álgebra lineal. Estas clases de matemáticas, así como los cursos avanzados de economía, es necesario aprobarlos con buenas calificaciones. Los comités de admisión no sólo revisan qué cursos tomaste durante la carrera, sino que les interesa ver cómo te enfrentaste a cursos difíciles.
-* **Relación con profesores** Crea relaciones con profesores, sobretodo con aquellos que hagan investigación. Asegúrate de sobresalir en sus clases y aprovechar las oportunidades que tengas para conocerlos y que te conozcan. Cuando decidas solicitar admisión al doctorado, deberás tener 3 o 4 recomendadores. Si forjaste buenas relaciones, en donde el/la profesor/a te conozcan bien (no sólo como estudiante, sino también como investigador y como persona), podrán escribir una mejor carta de recomendación. No es lo mismo que un profesor escriba diciendo que te conoció hace 6 meses, a que diga que te ha visto crecer los últimos 3 años de la carrera. Es suficiente con tener 1/3 recomendadores que te conozca muy bien.
+* **Cursos**. Inscribe todas las clases avanzadas de economía que puedas (poder = sacar una buena calificación). Además es crucial que lleves el curso de análisis real y el de álgebra lineal. Estas clases de matemáticas, así como los cursos avanzados de economía, es necesario aprobarlos con buenas calificaciones. Los comités de admisión no sólo revisan qué cursos tomaste durante la carrera, sino que les interesa ver cómo te enfrentaste a cursos difíciles.
+* **Relación con profesores**. Crea relaciones con profesores, sobretodo con aquellos que hagan investigación. Asegúrate de sobresalir en sus clases y aprovechar las oportunidades que tengas para conocerlos y que te conozcan. Cuando decidas solicitar admisión al doctorado, deberás tener 3 o 4 recomendadores. Si forjaste buenas relaciones, en donde el/la profesor/a te conozcan bien (no sólo como estudiante, sino también como investigador y como persona), podrán escribir una mejor carta de recomendación. No es lo mismo que un profesor escriba diciendo que te conoció hace 6 meses, a que diga que te ha visto crecer los últimos 3 años de la carrera. Es suficiente con tener 1/3 recomendadores que te conozca muy bien.
 * **Asistente de investigación**. Trabaja como asistente de investigación para un profesor en tu área de interés. Esto te ayudará no solamente para las cartas de recomendación y el currículum pero también te dará una mejor idea de qué esperar durante el doctorado. Si no estás seguro sobre hacer un doctorado, esta es una buena manera de darte cuenta si lo disfrutarás. Si tu universidad no tiene oportunidades laborales para ser asistente de investigación trata de utilizar tus veranos para hacerlo.
-* **Tesis** Si realizar una tesis para graduarse es opcional, opta por hacerla. La tesis te servirá como “writing sample” para las universidades que lo requieran. Además hará tu perfil más fuerte al mostrar que eres bueno/a trabajando independientemente. Podrás mostrar que estás listo para pasar por todo el proceso creativo que requiere ser investigador: pensar una pregunta interesante, escribir el modelo teórico o empírico para contestarla, encontrar los datos y comunicar tus resultados. Si tu universidad tiene una gaceta/revista de economía, publícala ahí, trata de meterla también al premio Banamex u otros similares.
+* **Tesis**. Si realizar una tesis para graduarse es opcional, opta por hacerla. La tesis te servirá como “writing sample” para las universidades que lo requieran. Además hará tu perfil más fuerte al mostrar que eres bueno/a trabajando independientemente. Podrás mostrar que estás listo para pasar por todo el proceso creativo que requiere ser investigador: pensar una pregunta interesante, escribir el modelo teórico o empírico para contestarla, encontrar los datos y comunicar tus resultados. Si tu universidad tiene una gaceta/revista de economía, publícala ahí, trata de meterla también al premio Banamex u otros similares.
 * **Utiliza el tiempo a tu favor**. Entrar a un programa de doctorado es competitivo, por lo que entre antes puedas empezar a planear para hacerlo, mejor. Si ya tomaste las clases difíciles y sacas buenas calificaciones, trabajaste como asistente de investigación, forjaste buenas relaciones con profesores y escribiste una tesis, lo único que te falta es tomar el GRE, el TOEFL y escribir tu “Statement of Purpose”. Estas cosas toman tiempo, así que planea bien. El GRE tiene validez por 5 años, así que lo puedes hacer mientras que sigues en la carrera.
 
 
@@ -43,8 +43,8 @@ Si ya te graduaste de la licenciatura, tienes buenas calificaciones, experiencia
 
 
 
-* **Mandar tu solicitud sin hacer nada más.** Esta es sin duda la opción más arriesgada pues la mayoría de los extranjeros llegan a los doctorados en Estados Unidos habiendo hecho una maestría y podrá lastimar tus posibilidades de ser admitido. Sin embargo, estudiantes mexicanos han sido admitidos, pero en su paquete de aplicación tenían una o varias características (i) llevaron materias de nivel maestría durante la carrera o materias avanzadas de economía, (ii) fueron el primer lugar de generación de su programa de licenciatura (iii) obtuvieron un premio de investigación nacional por su tesis,
-* **Hacer una maestría de economía o estadística.** Ya sea en México (e.g. ITAM, CIDE, Colmex, Chapingo, CIMAT) o en el extranjero (Europa tiene muchos programas de maestría como es el caso de LSE, CEMFI y Barcelona School of Economics; América Latina tiene excelentes programas de maestr[ia como es el caso de la Universidad de los Andes, Fundación Gertulio Vargas o la Universidad Católica de Chile; y Estados Unidos comienza a tener algunos como por ejemplo en: Yale, Columbia, Chicago, Wisconsin, Duke). Esto te ayudará en tus cartas de recomendación y en fortalecer tu tira de materias.
+* **Mandar tu solicitud sin hacer nada más**. Esta es sin duda la opción más arriesgada pues la mayoría de los extranjeros llegan a los doctorados en Estados Unidos habiendo hecho una maestría y podrá lastimar tus posibilidades de ser admitido. Sin embargo, estudiantes mexicanos han sido admitidos, pero en su paquete de aplicación tenían una o varias características (i) llevaron materias de nivel maestría durante la carrera o materias avanzadas de economía, (ii) fueron el primer lugar de generación de su programa de licenciatura (iii) obtuvieron un premio de investigación nacional por su tesis,
+* **Hacer una maestría de economía o estadística**. Ya sea en México (e.g. ITAM, CIDE, Colmex, Chapingo, CIMAT) o en el extranjero (Europa tiene muchos programas de maestría como es el caso de LSE, CEMFI y Barcelona School of Economics; América Latina tiene excelentes programas de maestr[ia como es el caso de la Universidad de los Andes, Fundación Gertulio Vargas o la Universidad Católica de Chile; y Estados Unidos comienza a tener algunos como por ejemplo en: Yale, Columbia, Chicago, Wisconsin, Duke). Esto te ayudará en tus cartas de recomendación y en fortalecer tu tira de materias.
 
 * **Trabajar como asistente de investigación para un profesor muy bien conectado dentro de la profesión**. En twitter, la cuenta de [Econ RA Listings](https://twitter.com/econ_ra) tiene muchas oportunidades. La pandemia lo ha hecho aún más fácil pues no es necesario estar presencialmente en el lugar en donde trabaja el profesor. Ojo: recomendamos que trabajen con un profesor que les pueda dar una carta de recomendación mejor que la que les darían sus profesores de la carrera. Hay que tener en mente que estos trabajos son competidos y que los profesores tienen más de un asistente de investigación así que hay que trabajar mucho para sobresalir.
 
@@ -53,17 +53,13 @@ Si ya te graduaste de la licenciatura, tienes buenas calificaciones, experiencia
 
 Si ya cursaste la licenciatura, todavía tienes buenas opciones para mejorar tu currículum y aplicar al doctorado de forma exitosa. El mejor camino, si no tienes restricciones personales o profesionales, será cursar una de las siguientes maestrías:
 
-* Maestría en Econoḿia, Colegio de México https://cee.colmex.mx/es/maestria/economia
-* Maestría en Economía, CIDE, https://www.cide.edu/programa/me/
-* Maestría en Economía Ambiental, CIDE,  https://www.cide.edu/programa/maea/
-(recomendable si estás interesado en Ph.D. in Agricultural Economics/ Ph.D. in Environmental Economics/Ph.D. in Agricultural and Natural Resource Economics)
-* Maestría en Teoría Económica, ITAM, http://mteoriaeconomica.itam.mx/
-* Maestría en Probabilidad y Estadística, CIMAT, https://ppe.cimat.mx/
-(recomendable si estás interesado en Econometría)
-* Maestría en Ciencias en Economía Agrícola y de Recursos Naturales http://dicea.chapingo.mx/mcearn/plan-estudios-maestria/
-(recomendable si estás interesado en Ph.D. in Agricultural Economics/ Ph.D. in Environmental Economics/Ph.D. in Agricultural and Natural Resource Economics)
-* Maestría en Economía, UNAM https://www.posgrado.unam.mx/economia/
-(diversos alumnos de esta maestría han sido admitidos recientemente en programas de doctorado en economía en Reino Unido)
+* [Maestría en Econoḿia, Colegio de México](https://cee.colmex.mx/es/maestria/economia)
+* [Maestría en Economía, CIDE](https://www.cide.edu/programa/me/)
+* [Maestría en Economía Ambiental, CIDE](https://www.cide.edu/programa/maea/) (recomendable si estás interesado en Ph.D. in Agricultural Economics/ Ph.D. in Environmental Economics/Ph.D. in Agricultural and Natural Resource Economics)
+* [Maestría en Teoría Económica, ITAM](http://mteoriaeconomica.itam.mx/)
+* [Maestría en Probabilidad y Estadística, CIMAT](https://ppe.cimat.mx/) (recomendable si estás interesado en Econometría)
+* [Maestría en Ciencias en Economía Agrícola y de Recursos Naturales](http://dicea.chapingo.mx/mcearn/plan-estudios-maestria/) (recomendable si estás interesado en Ph.D. in Agricultural Economics/ Ph.D. in Environmental Economics/Ph.D. in Agricultural and Natural Resource Economics)
+* [Maestría en Economía, UNAM](https://www.posgrado.unam.mx/economia/) (diversos alumnos de esta maestría han sido admitidos recientemente en programas de doctorado en economía en Reino Unido)
 
 Estas son las mejores opciones por el prestigio nacional e internacional de las instituciones y porque cubren los tres requerimientos más importantes para la aplicación. Puedes preguntar a los directores de cada programa de cada maestría la lista de sus ex alumnos que han sido admitidos en programas de doctorado en el extranjero.
 

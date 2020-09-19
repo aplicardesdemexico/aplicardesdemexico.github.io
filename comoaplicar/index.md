@@ -22,7 +22,7 @@ Aquí recopilamos algunos tips de cómo aplicar y qué tienes que tener en cuent
 
 # <a name="listaDeUniversidades"></a>Lista de Universidades
 
-Es importante que sepas exactamente a qué programas quieres aplicar. Para ayudarte en la organización te recomendamos llenar un excel con las siguientes categorías:
+Es importante que sepas exactamente a qué programas quieres aplicar. Para ayudarte en la organización te recomendamos llenar un [excel](https://drive.google.com/file/d/1uPy76s0EQfc8KPIJEs8zi6jDS9yuSQnj/view?usp=sharing) con las siguientes categorías:
 - Nombre de la universidad
 - Nombre del programa
 - Ranking en tus preferencias (¿Qué programa te gusta más?)
@@ -43,7 +43,7 @@ Comentarios adicionales (si los programas tienen funding, etc.)
 
 ### ¿Para qué sirve?
 
-Este excel va a ser clave para:
+Este [excel](https://drive.google.com/file/d/1uPy76s0EQfc8KPIJEs8zi6jDS9yuSQnj/view?usp=sharing) va a ser clave para:
 - Organizar tus tiempos
 - Planear tu presupuesto
 - Escribir tu statement of purpose
@@ -51,7 +51,7 @@ Este excel va a ser clave para:
 - Compartir con los profesores que te van a dar las cartas de recomendación, así ellos tendrán una idea clara de los deadlines, tus preferencias y darte sugerencias de programas o universidades a los que puedes aplicar y en los que tal vez no has pensado.
 
 
-Este excel es de los primeros pasos para el proceso de aplicaciones.
+Este [excel](https://drive.google.com/file/d/1uPy76s0EQfc8KPIJEs8zi6jDS9yuSQnj/view?usp=sharing) es de los primeros pasos para el proceso de aplicaciones.
 
 Elegir los programas a los que vas a aplicar es muy importante y lo puedes hacer:
 
@@ -61,7 +61,7 @@ Elegir los programas a los que vas a aplicar es muy importante y lo puedes hacer
 
 A mi me interesan los temas de educación. Yo llené mi lista viendo la lista de profesores afiliados al programa de economics of education de NBER y en qué universidades y  departamentos trabajan.
 
-Mientras vayas llenando tu excel te vas a dar cuenta por ejemplo que en algunas universidades no hay profesores que compartan tus intereses, entonces las puedes quitar aunque te las hayan recomendado.
+Mientras vayas llenando tu [excel](https://drive.google.com/file/d/1uPy76s0EQfc8KPIJEs8zi6jDS9yuSQnj/view?usp=sharing) te vas a dar cuenta por ejemplo que en algunas universidades no hay profesores que compartan tus intereses, entonces las puedes quitar aunque te las hayan recomendado.
 
 ### Otros comentarios:
 
@@ -205,7 +205,7 @@ Cuando realices tu aplicación mediante los portales en línea, el sistema te so
 5. 	Platica con tus potenciales recomendadores (profesores y jefes) con muchos meses de anticipación. Agenda varias citas con ellos para platicar acerca de los programas, de tus planes a futuro y de las experiencias que ellos te pueden compartir.
 6. 	Pídeles explícitamente la carta de recomendación con al menos 4 meses de anticipación. Ten en cuenta que escribir una carta de recomendación no es sencillo para ellos.
 7. 	Nunca pidas que te permitan ver su carta de recomendación, se considera de mal gusto hacerlo. En la aplicación te van a preguntar si quieres “waive your right to read your letter of recommendation” te recomendamos que pongas que si, que accedes a no leer tu carta de recomendación.
-8. 	Manda amables pero constantes recordatorios a tus recomendadores acerca de los deadlines para enviar su carta; es muy común olvidar las fechas límites de envío. Puedes compartir tu excel de las universidades con ellos para que tengan la lista de las universidades a las que vas a aplicar, los profesores con los que quieres trabajar y las deadlines.
+8. 	Manda amables pero constantes recordatorios a tus recomendadores acerca de los deadlines para enviar su carta; es muy común olvidar las fechas límites de envío. Puedes compartir tu [excel](https://drive.google.com/file/d/1uPy76s0EQfc8KPIJEs8zi6jDS9yuSQnj/view?usp=sharing) de las universidades con ellos para que tengan la lista de las universidades a las que vas a aplicar, los profesores con los que quieres trabajar y las deadlines.
 9.	También comparte con ellos tu statement of purpose y tu cv para que tengan una mejor idea de lo que te interesa y las cosas que has hecho.
 
 # <a name="cv"></a>CV
@@ -230,7 +230,7 @@ Estas son algunas secciones que recomendamos incluir:
 
 ### ¿Qué es?
 
-El Statement of Purpose (o Carta de Motivos) es un texto breve en el que describes los aspectos relevantes que te hacen un buen candidato para el programa al que estás aplicando. La longitud de este documento depende de la universidad a la que estás aplicando. Regularmente tiene como mínimo una página y máximo tres. Es util que tengas los requisitos específicos de su contenido en excel que hablamos en la primera sección.
+El Statement of Purpose (o Carta de Motivos) es un texto breve en el que describes los aspectos relevantes que te hacen un buen candidato para el programa al que estás aplicando. La longitud de este documento depende de la universidad a la que estás aplicando. Regularmente tiene como mínimo una página y máximo tres. Es util que tengas los requisitos específicos de su contenido en [excel](https://drive.google.com/file/d/1uPy76s0EQfc8KPIJEs8zi6jDS9yuSQnj/view?usp=sharing) que hablamos en la primera sección.
 Normalmente es bueno ser modesto, pero en el statement of purpose ese no es el caso, al contrario, te tienes que vender. Hablar lo mejor de tí, destacar las cosas que has hecho bien y de las que estás orgulloso.
 
 ### ¿Cómo es su estructura? ¿Qué aspectos debo poner?
@@ -250,7 +250,7 @@ En los siguientes tres o cuatro párrafos puedes describir tu experiencia acadé
 - ¿Tienes experiencia laboral en un entorno de investigación?
 - ¿Tienes algún reconocimiento, premio o beca que refleje tus logros académicos?
 
-Usa los últimos párrafos para hacer un buen cierre de ideas. Destacar las ventajas y cualidades que tiene la universidad a la que estás aplicando. Describe cómo sus profesores se alinean con tus intereses de investigación y el compromiso que ofrecerías en caso de ser aceptado en su escuela. Si anotaste en tu excel los profesores con los que te gustaría trabajar en cada universidad, los puedes mencionar en tu carta.
+Usa los últimos párrafos para hacer un buen cierre de ideas. Destacar las ventajas y cualidades que tiene la universidad a la que estás aplicando. Describe cómo sus profesores se alinean con tus intereses de investigación y el compromiso que ofrecerías en caso de ser aceptado en su escuela. Si anotaste en tu [excel](https://drive.google.com/file/d/1uPy76s0EQfc8KPIJEs8zi6jDS9yuSQnj/view?usp=sharing) los profesores con los que te gustaría trabajar en cada universidad, los puedes mencionar en tu carta.
 
 ### Tips y recomendaciones
 
@@ -288,7 +288,7 @@ Cuando estás llenando tus aplicaciones en el portal de las universidades muchas
 ## <a name="costos"></a>Costo de aplicar
 
 Aplicar a un posgrado es bastante caro, dependiendo de cuantas aplicaciones mandes puedes gastar entre 2000 y 5000 dólares.
-Cuando calcules tu presupuesto toma en cuenta los siguientes gastos, que ponemos en el excel este es el [link](https://drive.google.com/file/d/1uPy76s0EQfc8KPIJEs8zi6jDS9yuSQnj/view?usp=sharing)
+Cuando calcules tu presupuesto toma en cuenta los siguientes gastos, que ponemos en el [excel](https://drive.google.com/file/d/1uPy76s0EQfc8KPIJEs8zi6jDS9yuSQnj/view?usp=sharing)
 
 - GRE
 - Envío del GRE a universidades
