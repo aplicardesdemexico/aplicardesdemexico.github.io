@@ -5,13 +5,13 @@ title: Home
 
 # Sobre Aplicar Desde México
 
-Aplicar Desde México surge del deseo de compilar y facilitar el acceso a información relacionada a aplicaciones para doctorado en Economía en el extranjero.
+**Aplicar Desde México** surge del deseo de compilar y facilitar el acceso a información relacionada a aplicaciones para doctorado en Economía en el extranjero.
 
-[¿Cómo Decidir?](/comodecidir) describe puntos importantes para decidir si quieres hacer un PhD en Economía. Una vez que decidiste hacer un PhD, [¿Cómo Planear?](/comoplanear) describe qué puntos debes considerar para planear tu aplicación dependiendo de en qué etapa de tus estudios te encuentres. Por último, [¿Cómo Aplicar?](/comoaplicar) describe algunos puntos prácticos a considerar una vez que ya estás en el proceso de aplicación al doctorado.
+[¿Cómo Decidir?](/comodecidir) describe qué es y qué implica hacer un doctorado, ademas de otros puntos importantes a considerar para decidir si quieres hacer un PhD en Economía. Una vez que decidiste hacer un PhD, [¿Cómo Planear?](/comoplanear) describe qué puntos debes considerar para planear tu aplicación dependiendo de en qué etapa de tus estudios te encuentres. Por último, [¿Cómo Aplicar?](/comoaplicar) describe algunos puntos prácticos a considerar una vez que ya estás en el proceso de aplicación al doctorado.
 
 Durante nuestros doctorados hemos ido recopilando información y recursos que nos ayudaron en el proceso. En [Otros Recursos](/otrosrecursos) encontrarás algunos de éstos que van desde recursos para aprender a escribir código, hasta consejos de cómo pensar en temas de investigación para tu doctorado.
 
-En [¿Quiénes Somos?](/quienessomos) encontrarás nuestros perfiles. Si tienes cualquier duda durante el proceso sobre alguna universidad/campo de investigación en particular, no dudes en contactarnos!
+En [¿Quiénes Somos?](/quienessomos) encontrarás nuestros perfiles. Si tienes cualquier duda durante tu proceso de aplicación sobre alguna universidad o campo de investigación en particular, no dudes en contactarnos!
 
 ### Contáctanos
 
