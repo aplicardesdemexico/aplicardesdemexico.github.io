@@ -20,11 +20,11 @@ sidebar_link: true
 ## Recursos para Investigación
 
 * [Recomendaciones de Jonathan Dingel](https://tradediversion.net/2018/12/17/research-resources-that-i-recommend/)
-* [Recomendaciones de Don Davis](http://www.columbia.edu/~drd28/Thesis%20Research.pdf)
-* [Cómo escribir un referee report](https://www.aeaweb.org/articles?id=10.1257/jep.31.1.231)
-* [Consejos de Keith Head](http://blogs.ubc.ca/khead/research/research-advice/formula)
+* [Recomendaciones de Don Davis para encontrar temas de investigación](http://www.columbia.edu/~drd28/Thesis%20Research.pdf)
+* [Cómo escribir un referee report, Berk, Harvey y Hirshleifer](https://www.aeaweb.org/articles?id=10.1257/jep.31.1.231)
+* [Consejos de Keith Head para redactar una buena introducción](http://blogs.ubc.ca/khead/research/research-advice/formula)
 * [Recursos y consejos de Jennifer Doleac](http://jenniferdoleac.com/resources/)
-* [Cómo encontrar datos y otros consejos de Sebastián Tello Trillo](https://sebastiantellotrillo.com/Resources-6d05598c2f8f494eb969eec7cef79606)
+* [Cómo encontrar datos y otros consejos de Sebastián Tello Trillo](https://sebastiantellotrillo.com/resources)
 
 
 
