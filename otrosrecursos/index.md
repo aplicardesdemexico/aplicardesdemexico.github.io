@@ -6,6 +6,7 @@ sidebar_link: true
 
 ---
 
+En esta página recopilamos ligas a recursos que nos han sido útiles durante nuestro doctorado. Encontrarás cosas variadas desde recursos para usar datos satelitales, hasta recursos para escribir una buena introducción para un artículo de investigación. 
 
 ## Ofertas de trabajo como asistente de investigación
 
