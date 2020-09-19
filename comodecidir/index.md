@@ -6,7 +6,6 @@ sidebar_link: true
 
 ---
 
-# Cómo decidir
 
 En esta página recopilamos información respecto a qué es un
 

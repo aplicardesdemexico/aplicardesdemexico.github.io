@@ -6,8 +6,6 @@ sidebar_link: true
 
 ---
 
-# Recursos Útiles
-
 
 ## Ofertas de trabajo como asistente de investigación
 
