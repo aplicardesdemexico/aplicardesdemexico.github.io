@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cómo Decidir
+title: ¿Cómo Decidir?
 sidebar_sort_order: 1
 sidebar_link: true
 
@@ -21,7 +21,7 @@ En esta página recopilamos información respecto a qué es un Doctorado y los e
 # <a name="queEsPhd"></a> ¿Qué es un PhD?
 
 
-Un PhD o doctorado, es el grado académico más alto que confiere una universidad. En esencia, el doctorado se trata de realizar **investigación**. Un estudiante de doctorado realiza la transición de un consumidor de conocimiento hacia un *generador* de conocimiento. [Matt Might](http://matt.might.net/articles/phd-school-in-pictures/) tiene una gran descripción gráfica de lo que quiere decir ser un *generador* de conocimiento. 
+Un PhD o doctorado, es el grado académico más alto que confiere una universidad. En esencia, el doctorado se trata de realizar **investigación**. Un estudiante de doctorado realiza la transición de un consumidor de conocimiento hacia un *generador* de conocimiento. [Matt Might](http://matt.might.net/articles/phd-school-in-pictures/) tiene una gran descripción gráfica de lo que quiere decir ser un *generador* de conocimiento.
 
 ## <a name="phdEconomia"></a> ¿Qué es un PhD en Economía?
 De acuerdo a Lionel Robbins “la economía es la ciencia que estudia la conducta humana como una relación entre fines y medios escasos que tienen usos alternativos.” La economía es la ciencia social de la elección, del comportamiento humano. Es una disciplina con mucha versatilidad y esto es muy valioso tanto desde el punto de vista de un estudiante de doctorado como desde la perspectiva de opciones laborales. Como estudiante, tienes muchas opciones de campos de especialización, desde microeconomía hasta macroeconomía, economía teórica y aplicada, pasando por historia económica, finanzas, economía ambiental y muchos más. En el mercado laboral, el título de PhD en Economía te abre muchas puertas, en la academia, sector público, sociedad civil, industria, etc.

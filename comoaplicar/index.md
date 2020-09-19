@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cómo Aplicar
+title: ¿Cómo Aplicar?
 sidebar_sort_order: 3
 sidebar_link: true
 

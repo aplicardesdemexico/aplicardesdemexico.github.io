@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cómo Planear
+title: ¿Cómo Planear?
 sidebar_sort_order: 2
 sidebar_link: true
 
