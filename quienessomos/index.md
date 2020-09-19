@@ -37,7 +37,7 @@ sidebar_link: true
         <p align="center">
           <ul>
           <li>Contacto: <a href="mailto:labaldomeroqui@wm.edu">labaldomeroqui@wm.edu</a></li>
-          <li>Página personal:   <a href="sites.google.com/view/luisbaldomeroquintana">https://sites.google.com/view/luisbaldomeroquintana</a></li>
+          <li>Página personal:   <a href="https://sites.google.com/view/luisbaldomeroquintana">https://sites.google.com/view/luisbaldomeroquintana</a></li>
           </ul>
         </p>
 </p>
