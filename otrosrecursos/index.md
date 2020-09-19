@@ -12,7 +12,7 @@ sidebar_link: true
 ## Ofertas de trabajo como asistente de investigación
 
 * Sigan an [Econ RA](https://twitter.com/econ_ra) en Twitter quienes mantienen una lista de oportunidades de trabajo como Asistente de Investigación
-
+* [Consejos para trabajar como asistente de investigación](https://raguide.github.io/)
 
 ## Recomendaciones para aplicar al doctorado
 
