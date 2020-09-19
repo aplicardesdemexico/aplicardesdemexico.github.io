@@ -19,6 +19,6 @@ Si quieres que demos una [presentación](/assets/archivos/PhDEconomiaPresentacio
 
 ---
 
-Agradecemos a [Aplicar Desde Argentina](https://aplicardesdeargentina.weebly.com/)
+Agradecemos a [Aplicar Desde Argentina](https://aplicardesdeargentina.weebly.com/) por su ayuda en el proceso de creación de la página.
 
 **Las opiniones expresadas en esta página surgen de experiencia propia y no representan recomendaciones de ninguna institución educativa**
