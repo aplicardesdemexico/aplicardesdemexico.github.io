@@ -6,11 +6,11 @@ sidebar_link: true
 
 ---
 
-En esta página recopilamos ligas a recursos que nos han sido útiles durante nuestro doctorado. Encontrarás cosas variadas: desde recursos para usar datos satelitales, hasta recursos para escribir una buena introducción para un artículo de investigación. 
+En esta página recopilamos ligas a recursos que nos han sido útiles durante nuestro doctorado. Encontrarás cosas variadas: desde recursos para usar datos satelitales, hasta recursos para escribir una buena introducción para un artículo de investigación.
 
 ## Ofertas de trabajo como asistente de investigación
 
-* Sigan an [Econ RA](https://twitter.com/econ_ra) en Twitter quienes mantienen una lista de oportunidades de trabajo como Asistente de Investigación
+* Recomendamos seguir a [Econ RA](https://twitter.com/econ_ra) en Twitter quienes mantienen una lista de oportunidades de trabajo como Asistente de Investigación
 * [Consejos para trabajar como asistente de investigación](https://raguide.github.io/)
 
 ## Recomendaciones para aplicar al doctorado
