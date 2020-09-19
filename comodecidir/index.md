@@ -14,7 +14,7 @@ En esta página recopilamos información respecto a qué es un
     - [Estructura del Programa](#estructura)
     - [¿Quién puede estudiar un doctorado en Economía?](#quienPhd)
     - [¿Qué hace un PhD en Economía?](#queHacePhd)
-  - [¿Cómo decido si un PhD en Economía es para mí?](#comoDecido?)
+  - [¿Cómo decido si un PhD en Economía es para mí?](#comoDecido)
 
 
 

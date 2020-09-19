@@ -5,7 +5,8 @@ title: Home
 
 # Sobre Aplicar Desde México
 
-Esta página surge del deseo de compilar y facilitar el acceso a información relacionada a aplicaciones para doctorado en Economía en el extranjero.
+Aplicar Desde México surge del deseo de compilar y facilitar el acceso a información relacionada a aplicaciones para doctorado en Economía en el extranjero.
+
 
 
 ### Contáctanos
