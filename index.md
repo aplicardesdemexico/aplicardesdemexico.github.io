@@ -10,7 +10,7 @@ Aplicar Desde México surge del deseo de compilar y facilitar el acceso a inform
 
 [¿Cómo Decidir?](/comodecidir) describe puntos importantes para decidir si quieres hacer un PhD en Economía. Una vez que decidiste hacer un PhD, [¿Cómo Planear?](/comoplanear) describe los elementos a considerar dependiendo de en qué etapa de tus estudios te encuentres. Finalmente, [¿Cómo Aplicar?](/comoaplicar) describe los elementos prácticos a considerar en el proceso de aplicación al doctorado.
 
-
+En [Otros Recursos](/otrosrecursos) encontrarás links variados que nosotros hemos encontrado útiles tanto en el proceso de aplicación como en el doctorado. 
 
 
 
