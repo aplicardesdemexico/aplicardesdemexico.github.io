@@ -1,7 +1,7 @@
 ---
 layout: page
 title: '¿Quiénes Somos?'
-sidebar_sort_order: 5
+sidebar_sort_order: 6
 sidebar_link: true
 
 ---
@@ -67,7 +67,7 @@ sidebar_link: true
 
 
 
-  <b>Mauricio Olivares</b> es un estudiante de doctorado en Illinois Urbana-Champaign. Sus temas de investigación son econometría. Antes de empezar el doctorado....
+  <b>Mauricio Olivares</b> es un estudiante de doctorado en Illinois Urbana-Champaign. Sus temas de investigación son econometría. Antes de empezar el doctorado estudió en el ITAM.
         <p align="center">
           <ul>
             <li>Página personal:   <a href="https://mauolivares.github.io/">https://mauolivares.github.io/</a></li>

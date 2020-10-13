@@ -10,7 +10,7 @@ sidebar_link: true
 En esta página recopilamos información respecto a qué es un Doctorado y los elementos a considerar para decidir si es lo que te interesa hacer.
 
 - [¿Qué es un PhD?](#queEsPhd)
-  - [¿Qué es un PhD en Economía](#phdEconomia)
+  - [¿Qué es un PhD en Economía?](#phdEconomia)
     - [Estructura del Programa](#estructura)
     - [¿Quién puede estudiar un doctorado en Economía?](#quienPhd)
     - [¿Qué hace un PhD en Economía?](#queHacePhd)

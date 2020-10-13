@@ -26,6 +26,7 @@ En esta página recopilamos ligas a recursos que nos han sido útiles durante nu
 * [Consejos de Keith Head para redactar una buena introducción](http://blogs.ubc.ca/khead/research/research-advice/formula)
 * [Recursos y consejos de Jennifer Doleac](http://jenniferdoleac.com/resources/)
 * [Cómo encontrar datos y otros consejos de Sebastián Tello Trillo](https://sebastiantellotrillo.com/resources)
+* [Consejos para la transición de clases a investigación, Steve Redding](http://www.princeton.edu/~reddings/tradephd/Redding_PhDEthics_April2020.pdf)
 
 
 
