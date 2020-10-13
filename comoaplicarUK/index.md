@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ¿Cómo Aplicar a Universidades en el Reino Unido?
+title: ¿Cómo Aplicar a UK?
 sidebar_sort_order: 4
 sidebar_link: true
 
