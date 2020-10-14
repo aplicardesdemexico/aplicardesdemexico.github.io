@@ -67,7 +67,7 @@ sidebar_link: true
 
 
 
-  <b>Mauricio Olivares</b> es un estudiante de doctorado en Illinois Urbana-Champaign. Sus temas de investigación son econometría. Antes de empezar el doctorado estudió en el ITAM.
+  <b>Mauricio Olivares</b> es un estudiante de doctorado en Illinois Urbana-Champaign. Su principal tema de investigación es econometría. Antes de empezar el doctorado estudió la licenciatura en el ITAM.
         <p align="center">
           <ul>
             <li>Página personal:   <a href="https://mauolivares.github.io/">https://mauolivares.github.io/</a></li>
