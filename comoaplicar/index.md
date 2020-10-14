@@ -6,7 +6,7 @@ sidebar_link: true
 
 ---
 
-Aquí recopilamos algunos tips de cómo aplicar y qué tienes que tener en cuenta. Los elementos a considerar son:
+Aquí recopilamos algunos tips de cómo aplicar y de puntos importantes que debes tomar en consideración en el proceso. Los elementos a considerar son:
 
 - [Lista de Universidades](#listaDeUniversidades)
 - [GRE](#gre)

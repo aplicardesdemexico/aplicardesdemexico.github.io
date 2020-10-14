@@ -10,7 +10,7 @@ title: Home
 [¿Cómo Decidir?](/comodecidir) describe qué es y qué implica hacer un doctorado. Ahí encontrarás algunos puntos a considerar para decidir si quieres hacer un PhD en Economía. Una vez que decidiste hacer un PhD empieza la planeación. En [¿Cómo Planear?](/comoplanear) encontrarás consejos para planear tu aplicación dependiendo de en qué etapa de tus estudios te encuentres. Finalmente, [¿Cómo Aplicar?](/comoaplicar) recopila algunos consejos prácticos para el proceso de aplicación.
 
 
-Si bien muchas de las recomendaciones son válidas para las universidades en UK, hay pasos e incluso tiempos diferentes. En [¿Cómo Aplicar a UK?](/comoaplicarUK) encontrás consejos especificos para el Reino Unido.
+Si bien muchas de las recomendaciones son válidas para las universidades en UK, hay pasos e incluso tiempos diferentes. En [¿Cómo Aplicar a UK?](/comoaplicarUK) encontrás consejos específicos para el Reino Unido.
 
 
 
