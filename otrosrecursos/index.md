@@ -38,7 +38,9 @@ En esta página recopilamos recursos que nos han sido útiles durante nuestros d
 
 * [Cómo organizar proyectos, Matthew Gentzkow y Jesse Shapiro](https://web.stanford.edu/~gentzkow/research/CodeAndData.pdf)
 * [Cómo organizar proyectos en STATA, Julian Reif](https://reifjulian.github.io/guide/)
+* [Cómo organizar proyectos en R, Sean Higgins](https://github.com/skhiggins/R_guide)
 * [The Plain Person's Guide to Plain Text Social Science, Kieran Healy](https://kieranhealy.org/files/papers/plain-person-text.pdf)
+
 
 ### Recursos para R
 * [R for Data Science, Grolemund y Wickham](https://r4ds.had.co.nz/)
