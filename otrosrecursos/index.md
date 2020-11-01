@@ -57,3 +57,8 @@ En esta página recopilamos recursos que nos han sido útiles durante nuestros d
 
 * [GIS para Economía, Melissa Dell](https://scholar.harvard.edu/files/dell/files/090110combined_gis_notes.pdf)
 * [ArcGIS y datos Satelitales, Matt Lowe](https://mattlowe.site/wp-content/uploads/2020/04/Lowe_LightsArcGuide.pdf)
+
+
+### Otros Recursos
+
+* [Recursos para Machine Learning en Economía, Dario Sansone](https://sites.google.com/view/dariosansone/resources/machine-learning)
