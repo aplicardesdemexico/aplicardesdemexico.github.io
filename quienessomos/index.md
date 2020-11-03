@@ -111,6 +111,26 @@ sidebar_link: true
 
 
 <p align="center">
+  <img width="220" height="250" src="fotos/dianaSverdlin.jpg">
+
+  <b>Diana Sverdlin</b> es una estudiante de doctorado de economía en MIT interesada en estudiar temas de salud, informalidad y desarrollo económico. Estudió la licenciatura de Economía en el ITAM y antes de empezar el doctorado trabajó en el IMSS y posteriormente en Pemex.
+
+
+      <p align="center">
+        <ul>
+          <li>Contacto: <a href="mailto:dianasl@mit.edu">dianasl@mit.edu</a></li>
+        </ul>
+      </p>
+
+
+</p>
+
+
+
+
+
+
+<p align="center">
   <img width="250" height="300" src="fotos/FotoGVB.jpeg">
 
 
