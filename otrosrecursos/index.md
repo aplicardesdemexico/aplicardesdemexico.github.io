@@ -28,7 +28,8 @@ En esta página recopilamos recursos que nos han sido útiles durante nuestros d
 * [Cómo encontrar datos y otros consejos de Sebastián Tello Trillo](https://sebastiantellotrillo.com/resources)
 * [Consejos para la transición de clases a investigación, Steve Redding](http://www.princeton.edu/~reddings/tradephd/Redding_PhDEthics_April2020.pdf)
 * [Guía para Economistas, Maitreesh Ghatak](http://personal.lse.ac.uk/ghatak/Guides_for_Economists.htm)
-
+* [Consejos para ser "discussant" de un paper](http://sites.utexas.edu/ecoadvising/files/2012/05/ESP-Tips-on-being-a-good-discussant1.pdf)
+* [Tips para Beamer, Paul Goldsmith-Pinkham](https://paulgp.github.io/beamer_tips.html)
 
 
 
