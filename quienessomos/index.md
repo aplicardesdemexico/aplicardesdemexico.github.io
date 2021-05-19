@@ -43,6 +43,23 @@ sidebar_link: true
 </p>
 
 
+<p align="center">
+  <img width="280" height="280" src="fotos/liliaGarcia.jpeg">
+
+
+  <b>Lilia</b> es estudiante de doctorado en economía en la universidad de Sussex. Su área de estudio es el mercado eléctrico pero también le interesan temas relacionados con cambio climático, mercado de petróleo y gas. Es maestra por la UNAM y licenciada por el Tec de Monterrey. Gracias a la pandemia se volvió ciclista urbana.
+
+
+
+        <p align="center">
+          <ul>
+          <li>Contacto: <a href="mailto:l.garcia-manrique@sussex.ac.uk">l.garcia-manrique@sussex.ac.uk</a></li>
+          <li>Página personal:   <a href="site.liliagama.com">site.liliagama.com</a></li>
+          </ul>
+        </p>
+</p>
+
+
 
 
 
@@ -101,6 +118,25 @@ sidebar_link: true
       <p align="center">
         <ul>
           <li>Contacto: <a href="mailto:danielramos@g.harvard.edu">danielramos@g.harvard.edu</a></li>
+        </ul>
+      </p>
+
+
+</p>
+
+
+
+
+
+<p align="center">
+  <img width="250" height="250" src="fotos/ratza.jpg">
+
+  <b>Ratzanyel Rincón</b> es estudiante entrante del doctorado en economía en la Universidad de British Columbia. Sus principales áreas de interés son la economía laboral, el desarrollo económico, y la microeconometría aplicada. Ratza estudió la licenciatura en Física y Matemáticas en el IPN y la maestría en Economía en El Colegio de México. Posteriormente, se unió a la Dirección General de Investigación Económica del Banco de México. Él es orgullosamente Atlixquense.  
+
+
+      <p align="center">
+        <ul>
+          <li>Contacto: <a href="mailto:rrincon@colmex.mx">rrincon@colmex.mx</a></li>
         </ul>
       </p>
 
