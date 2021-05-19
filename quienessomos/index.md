@@ -54,7 +54,7 @@ sidebar_link: true
         <p align="center">
           <ul>
           <li>Contacto: <a href="mailto:l.garcia-manrique@sussex.ac.uk">l.garcia-manrique@sussex.ac.uk</a></li>
-          <li>Página personal:   <a href="site.liliagama.com">site.liliagama.com</a></li>
+          <li>Página personal:   <a href="https://site.liliagama.com">https://site.liliagama.com</a></li>
           </ul>
         </p>
 </p>
