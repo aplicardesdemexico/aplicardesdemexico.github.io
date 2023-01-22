@@ -30,6 +30,7 @@ En esta página recopilamos recursos que nos han sido útiles durante nuestros d
 * [Guía para Economistas, Maitreesh Ghatak](http://personal.lse.ac.uk/ghatak/Guides_for_Economists.htm)
 * [Consejos para ser "discussant" de un paper](http://sites.utexas.edu/ecoadvising/files/2012/05/ESP-Tips-on-being-a-good-discussant1.pdf)
 * [Tips para Beamer, Paul Goldsmith-Pinkham](https://paulgp.github.io/beamer_tips.html)
+* [Compilación de consejos por Chris Roth y David Schindler](https://sites.google.com/view/econgradadvice/)
 
 
 
@@ -49,6 +50,7 @@ En esta página recopilamos recursos que nos han sido útiles durante nuestros d
 * [Visualización de Datos en R, Kieran Healy](https://socviz.co/)
 * [Análisis Geográfico en R, Lovelace, Nowosad y Muenchow](https://bookdown.org/robinlovelace/geocompr/)
 * [Notas de Econometría en R, Fiona Burlig](https://www.fionaburlig.com/teaching/are212)
+* [Curso de Econometría en R, Ed Rubin](https://github.com/edrubin/EC607S21)
 
 ### Recursos para Python
 
