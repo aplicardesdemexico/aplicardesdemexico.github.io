@@ -26,11 +26,12 @@ En esta página recopilamos recursos que nos han sido útiles durante nuestros d
 * [Consejos de Keith Head para redactar una buena introducción](http://blogs.ubc.ca/khead/research/research-advice/formula)
 * [Recursos y consejos de Jennifer Doleac](http://jenniferdoleac.com/resources/)
 * [Cómo encontrar datos y otros consejos de Sebastián Tello Trillo](https://sebastiantellotrillo.com/resources)
-* [Consejos para la transición de clases a investigación, Steve Redding](http://www.princeton.edu/~reddings/tradephd/Redding_PhDEthics_April2020.pdf)
+* [Consejos para la transición de clases a investigación, Steve Redding](https://www.princeton.edu/~reddings/tradephd/Redding_PhDEthics_2022.pdf)
 * [Guía para Economistas, Maitreesh Ghatak](http://personal.lse.ac.uk/ghatak/Guides_for_Economists.htm)
-* [Consejos para ser "discussant" de un paper](http://sites.utexas.edu/ecoadvising/files/2012/05/ESP-Tips-on-being-a-good-discussant1.pdf)
+* [Consejos para ser "discussant" de un paper](https://www.dallasfed.org/~/media/documents/educate/events/esp/tipsdiscussant.pdf)
 * [Tips para Beamer, Paul Goldsmith-Pinkham](https://paulgp.github.io/beamer_tips.html)
 * [Compilación de consejos por Chris Roth y David Schindler](https://sites.google.com/view/econgradadvice/)
+* [Compilación de recursos por EconThaki](https://econthaki.github.io/recursos/2021/01/05/recursos.html)
 
 
 
