@@ -118,7 +118,7 @@ sidebar_link: true
       <p align="center">
         <ul>
           <li>Contacto: <a href="mailto:danielramos@g.harvard.edu">danielramos@g.harvard.edu</a></li>
-          <li>Página personal:   <a href="https://scholar.harvard.edu/danielramosmenchelli</a></li>
+          <li>Página personal:   <a href="https://scholar.harvard.edu/danielramosmenchelli">https://scholar.harvard.edu/danielramosmenchelli</a></li>
         </ul>
       </p>
 
