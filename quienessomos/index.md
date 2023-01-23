@@ -118,6 +118,7 @@ sidebar_link: true
       <p align="center">
         <ul>
           <li>Contacto: <a href="mailto:danielramos@g.harvard.edu">danielramos@g.harvard.edu</a></li>
+          <li>Página personal:   <a href="https://scholar.harvard.edu/danielramosmenchelli</a></li>
         </ul>
       </p>
 
@@ -131,7 +132,7 @@ sidebar_link: true
 <p align="center">
   <img width="250" height="250" src="fotos/ratza.jpg">
 
-  <b>Ratzanyel Rincón</b> es estudiante entrante del doctorado en economía en la Universidad de British Columbia. Sus principales áreas de interés son la economía laboral, el desarrollo económico, y la microeconometría aplicada. Ratza estudió la licenciatura en Física y Matemáticas en el IPN y la maestría en Economía en El Colegio de México. Posteriormente, se unió a la Dirección General de Investigación Económica del Banco de México. Él es orgullosamente Atlixquense.  
+  <b>Ratzanyel Rincón</b> es estudiante entrante del doctorado en economía en la Universidad de British Columbia. Sus principales áreas de interés son la economía laboral, el desarrollo económico, y la microeconometría aplicada. Ratza estudió la licenciatura en Física y Matemáticas en el IPN y la maestría en Economía en El Colegio de México. Posteriormente, se unió a la Dirección General de Investigación Económica del Banco de México. Él es orgullosamente Atlixquense.
 
 
       <p align="center">
