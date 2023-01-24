@@ -25,6 +25,6 @@ Si quieres que demos una [presentación](/assets/archivos/PhDEconomiaPresentacio
 
 ---
 
-Agradecemos a [Aplicar Desde Argentina](https://aplicardesdeargentina.weebly.com/) por su ayuda en el proceso de creación de la página. También recomendamos ver [EconThaki](https://econthaki.github.io/) quienes han recopilado una guia para estudiantes latinoamericanos interesados en un doctorado en economía. 
+Agradecemos a [Aplicar Desde Argentina](https://aplicardesdeargentina.weebly.com/) por su ayuda en el proceso de creación de la página. También recomendamos seguir a [EconThaki](https://econthaki.github.io/), quienes han recopilado una guia para estudiantes latinoamericanos interesados en un doctorado en economía. 
 
 **Las opiniones expresadas en esta página surgen de experiencia propia y no representan recomendaciones de ninguna institución educativa**
