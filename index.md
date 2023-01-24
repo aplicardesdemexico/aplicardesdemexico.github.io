@@ -21,10 +21,10 @@ En [¿Quiénes Somos?](/quienessomos) puedes ver nuestros perfiles. Si tienes cu
 
 ### Contáctanos
 
-Si quieres que demos una [presentación](/assets/archivos/PhDEconomiaPresentacion.pdf) a algún grupo de estudiantes o tienes cualquier pregunta/comentario, por favor mándanos un correo a [aplicardesdemexico@gmail.com](mailto:aplicardesdemexico@gmail.com) o mándanos un mensaje por Twitter en [AplicarDesdeMx](https://twitter.com/AplicarDesdeMx). 
+Si quieres que demos una [presentación](/assets/archivos/PhDEconomiaPresentacion.pdf) a algún grupo de estudiantes o tienes cualquier pregunta/comentario, por favor mándanos un correo a [aplicardesdemexico@gmail.com](mailto:aplicardesdemexico@gmail.com) o mándanos un mensaje por Twitter en [AplicarDesdeMx](https://twitter.com/AplicarDesdeMx).
 
 ---
 
-Agradecemos a [Aplicar Desde Argentina](https://aplicardesdeargentina.weebly.com/) por su ayuda en el proceso de creación de la página.
+Agradecemos a [Aplicar Desde Argentina](https://aplicardesdeargentina.weebly.com/) por su ayuda en el proceso de creación de la página. También recomendamos ver [EconThaki](https://econthaki.github.io/) quienes han recopilado una guia para estudiantes latinoamericanos interesados en un doctorado en economía. 
 
 **Las opiniones expresadas en esta página surgen de experiencia propia y no representan recomendaciones de ninguna institución educativa**
