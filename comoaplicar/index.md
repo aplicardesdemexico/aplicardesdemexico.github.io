@@ -83,7 +83,7 @@ Las calificaciones que puedes obtener en el GRE  varían:
 Para las secciones de quant y verbal  la calificación mínima es de 130 y la máxima es de 170 puntos.
 Para la sección de writing la calificación mínima es de 0 y la máxima es de 6.
 Una vez que obtienes tu calificación te dicen también en qué percentil estás de las personas que tomaron el test en los últimos tres años. El percentil cambia dependiendo de qué tan bien o mal le vaya a las personas que han realizado el examen últimamente.
-Para muchas universidades necesitas una calificación que te deje por encima del percentil 90 en quant (ahora es 167 pero eso cambia cada año).
+Para muchas universidades necesitas una calificación que te deje por encima del percentil 90 en quant (ahora es 168 pero eso cambia cada año).
 
 #### Para reportar tus calificaciones
 
@@ -91,7 +91,7 @@ El día del exámen recibes tu calificación de quant y verbal inmediatamente de
 
 ### Cómo y cuándo reservar el exámen:
 
-El GRE se reserva online, el costo de un intento es de 205 USD. Comprar el examen incluye dos exámenes de prueba.
+El GRE se reserva online, el costo de un intento es de 220 USD. Comprar el examen incluye dos exámenes de prueba.
 El examen lo tomas en lugares designados cuando hay fecha disponible entonces es bueno planearlo con tiempo. Si no vives en una ciudad grande, es probable que tengas que ir a otra ciudad a tomarlo. Pero aun en la CDMX se agotan las fechas.
 Es importante que planees la fecha para que tengas suficiente tiempo para repetirlo al menos una vez si no consigues la calificación que querías.
 Tienes que tomar el GRE al menos entre 10 y 15 días antes de tu primera deadline porque es lo que se tardan en darte las calificaciones oficiales.
@@ -106,11 +106,12 @@ El primer examen te sirve para identificar qué tipo de preguntas te cuesta más
 El segundo GRE, a la mitad de tus estudios, sirve para saber tu avance y si está funcionando tu estrategia de estudio y de ser necesario hacer ajustes.
 El tercer GRE, un par de días antes del examen real, sirve para acostumbrarte al tiempo que tarda y a las distintas secciones. Fuera de estas tres veces en que hacer el GRE completo yo no recomendaría dedicar más tiempo a estudiar para las secciones de verbal y writing. Usa los simuladores que te da ETS cuando compras el examen para tu prueba dos y tres, a fin de contemplar el factor tiempo.
 La sección de quant del GRE no es muy difícil, son preguntas que si tuvieras todo el día muy probablemente podrías contestar sin problemas. El problema es que en el examen tienes 30 minutos para contestar 20 preguntas. Entonces aprender a ahorrar tiempo es clave.
-Compra Magoosh. Por un mes cuesta 149 USD por 6 meses cuesta 179 USD, vale la pena comprarlo por 6 meses por si tienes que repetir el GRE y si no lo tienes que repetir puedes vender la cuenta a alguien más.
-Magoosh es una plataforma que tiene tests de práctica, preguntas y videos con tips y atajos para ahorrar tiempo. La plataforma te ayuda a hacer un plan para estudiar dependiendo de cuánto tiempo tienes antes del examen.
+
 Es importante simular la situación real cuando estudies. Por ejemplo, es importante que uses la calculadora de magoosh en la computadora y no la calculadora de tu celular para que te des cuenta de cuánto tiempo vas a necesitar realmente el día del examen.
-En Magoosh puedes hacer ejercicios con un timer. Esto te ayuda a estar al pendiente de si tienes que trabajar en tu velocidad para contestar.
-Magoosh también lleva cuenta de que ejercicios has resuelto bien o mal y de qué tema tratan para que sepas en qué enfocarte al momento de estudiar.
+
+### Recursos para prepararte
+1. Magoosh: Por un mes cuesta 149 USD por 6 meses cuesta 179 USD, vale la pena comprarlo por 6 meses por si tienes que repetir el GRE y si no lo tienes que repetir puedes vender la cuenta a alguien más. Magoosh es una plataforma que tiene tests de práctica, preguntas y videos con tips y atajos para ahorrar tiempo. La plataforma te ayuda a hacer un plan para estudiar dependiendo de cuánto tiempo tienes antes del examen.
+2. Gregmat: Cuesta $7.99 por mes y tiene muchos recursos. Puede ser buena opcion para empezar a estudiar y despues usar el Magoosh.
 
 
 ### Tips para el día del examen
