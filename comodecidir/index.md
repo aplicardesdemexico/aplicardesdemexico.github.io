@@ -15,6 +15,7 @@ En esta página recopilamos información de qué es un Doctorado y los elementos
     - [¿Quién puede estudiar un doctorado en Economía?](#quienPhd)
     - [¿Qué hace un PhD en Economía?](#queHacePhd)
   - [¿Cómo decido si un PhD en Economía es para mí?](#comoDecido)
+  - [Otros PhDs relacionados con Economía](#otrosPhd)
 
 
 
@@ -94,3 +95,7 @@ Un PhD en economía es un camino para desarrollarte profesionalmente pero no es 
 Siempre puedes acercarte a estudiantes y exestudiantes para aprender más sobre este camino. También es importante que consideres que hay muchos programas de doctorado asociados al PhD en Economía (los PhD en escuelas de negocios, PhD en Políticas Públicas, etc.) y que pueden encajar mejor con tu perfil.
 
 Si escoges este camino te esperamos con los brazos abiertos y en esta página puedes encontrar recursos que te ayuden para tu aplicación. ¡No dudes en contactarnos!
+
+## <a name="otrosPhd"></a> Otras opciones de PhD relacionadas con Economía
+- PhD en Finanzas: Es un programa muy similar al de Economía en estructura. Durante el primer año normalmente cursan las materias del doctorado en Economía, y otras materias como finanzas corporativas, asset pricing y economía financiera. Los egresados suelen obtener puestos como profesores e investigadores en universidades y centros de investigación reconocidos a nivel mundial. También pueden desempeñarse como analistas de investigación en instituciones financieras, firmas de consultoría y bancos de inversión, aplicando su expertise en modelado financiero, valoración de activos y análisis de riesgos.
+- PhD en Políticas Públicas: Los primeros años del programa están dedicados a cursos fundamentales en economía, métodos estadísticos, ciencia política y análisis de políticas. Los egresados suelen contribuir a la formulación de políticas y el análisis de programas en distintos espacios. 
