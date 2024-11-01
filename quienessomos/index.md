@@ -112,7 +112,7 @@ sidebar_link: true
 <p align="center">
   <img width="250" height="250" src="fotos/danielRamos.jpg">
 
-  <b>Daniel Ramos</b> es un estudiante de doctorado en la escuela de Negocios de Harvard. Sus temas de investigación son comercio internacional, economía urbana, y desarrollo. Estudió una licenciatura en economía y una maestría en teoría economómica en el ITAM. Antes de aplicar al doctorado trabajó como asistente de investigación.
+  <b>Daniel Ramos</b> se graduó del doctorado en Economía en la escuela de Negocios de Harvard, y ahora es profesor asistente en Johns Hopkins School of Advanced International Studies (SAIS). Sus temas de investigación son comercio internacional, economía urbana, y desarrollo. Estudió una licenciatura en economía y una maestría en teoría economómica en el ITAM. Antes de aplicar al doctorado trabajó como asistente de investigación.
 
 
       <p align="center">
@@ -144,13 +144,25 @@ sidebar_link: true
 
 </p>
 
+<p align="center">
+  <img width="250" height="250" src="fotos/FernandoStein.jpg">
 
+  <b>Fernando Stein</b> es estudiante del doctorado en Finanzas en The Wharton School.  Sus principales áreas de interés son asset pricing, finanzas corporativas, y organizacion industrial. Fernando estudió las licenciaturas en Economía y Matemáticas Aplicadas en el ITAM y la maestría en Teoría Economómica en el ITAM. Antes de empezar el doctorado,  trabajó en Bank of America.
+
+      <p align="center">
+        <ul>
+          <li>Contacto: <a href="mailto:fsteinv@wharton.upenn.edu">fsteinv@wharton.upenn.edu</a></li>
+        </ul>
+      </p>
+
+
+</p>
 
 
 <p align="center">
   <img width="220" height="250" src="fotos/dianaSverdlin.jpg">
 
-  <b>Diana Sverdlin</b> es una estudiante de doctorado de economía en MIT interesada en estudiar temas de salud, informalidad y desarrollo económico. Estudió la licenciatura de Economía en el ITAM y antes de empezar el doctorado trabajó en el IMSS y posteriormente en Pemex.
+  <b>Diana Sverdlin</b> se graduo del doctorado de economía en MIT y ahora trabaja en  el Banco Mundial. Esta interesada en estudiar temas de salud, informalidad y desarrollo económico. Estudió la licenciatura de Economía en el ITAM y antes de empezar el doctorado trabajó en el IMSS y posteriormente en Pemex.
 
 
       <p align="center">
@@ -172,7 +184,7 @@ sidebar_link: true
 
 
 
-  <b>Guillermo Verduzco</b>  estudia su doctorado en University of Notre Dame; sus principales áreas de investigación son Series de Tiempo Aplicadas, Política Monetaria y Fiscal, y Macroeconomía Internacional. Nació y creció al sur de la Ciudad de México, estudió la licenciatura en Economía en el CIDE y, despues de titularse, trabajó durante tres años en la Dirección General de Investigación Económica del Banco de México.
+  <b>Guillermo Verduzco</b>  se graduo del doctorado en University of Notre Dame; sus principales áreas de investigación son Series de Tiempo Aplicadas, Política Monetaria y Fiscal, y Macroeconomía Internacional. Nació y creció al sur de la Ciudad de México, estudió la licenciatura en Economía en el CIDE y, despues de titularse, trabajó durante tres años en la Dirección General de Investigación Económica del Banco de México.
 
   Siempre rojinegro del Atlas y coyote de la Prepa 6 de la UNAM
 
