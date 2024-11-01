@@ -254,6 +254,14 @@ En los siguientes tres o cuatro párrafos puedes describir tu experiencia acadé
 Usa los últimos párrafos para hacer un buen cierre de ideas. Destacar las ventajas y cualidades que tiene la universidad a la que estás aplicando. Describe cómo sus profesores se alinean con tus intereses de investigación y el compromiso que ofrecerías en caso de ser aceptado en su escuela. Si anotaste en tu [excel](https://drive.google.com/file/d/1uPy76s0EQfc8KPIJEs8zi6jDS9yuSQnj/view?usp=sharing) los profesores con los que te gustaría trabajar en cada universidad, los puedes mencionar en tu carta.
 
 ### Tips y recomendaciones
+Lean esta [receta](https://chrisblattman.com/blog/2022/01/11/phd-applicants-writing-your-statement-of-purpose/) para escribir un buen Statement of Purpose de Chris Blattman. 
+
+En resumen: 
+1. Enfócate en tu capacidad de investigación: Evita historias personales a menos que estén directamente relacionadas con tu investigación. Tu objetivo principal es mostrar tu potencial como investigador.
+2. Evita los clichés: No uses historias de tu vida personal o narrativas comunes sobre el impacto social.
+3. Sé conciso y relevante: Cada frase debe transmitir información esencial. Evita generalidades, intereses vagos o detalles rutinarios.
+4. Aclara tu enfoque de investigación desde el principio: Explica brevemente tus áreas y temas de investigación específicos en los primeros dos párrafos.
+5. Desarrolla ideas de investigación clave: Detalla 1-2 preguntas de investigación, demostrando conocimiento en el campo y en métodos empíricos.
 
 Para darte una idea de cómo se ve un buen statement of purpose puedes leer el de otras personas. En esta página encontrarás el CV de todos los colaboradores, si tu perfil es parecido al de alguno de nosotros, no dudes en escribirnos para preguntar.
 Escribe en un papel todas las cosas que quieres mencionar. Puedes tener un par de lluvias de ideas con amigos que te conozcan bien, profesores o tus papás (es fácil olvidar un par de tus propios logros).
