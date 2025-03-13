@@ -195,3 +195,18 @@ sidebar_link: true
           </ul>
         </p>
 </p>
+
+
+<p align="center">
+  <img width="250" height="300" src="fotos/Foto_JHJ.jpg">
+
+
+
+  <b>Jorge Herrera Juárez</b>  es estudiante del doctorado en Economía en la Universidad de Minnesota. Sus intereses son en Macroeconomía Teórica, principalmente Economía Pública, Crecimiento y Política Monetaria y Fiscal. Es originario de Ciudad de México y estudió la licenciatura en economía y la maestría en economía aplicada en el ITAM. Trabajo un año en el Grupo Bal y 4 años en la Dirección General de Investigación Económica del Banco de México. Le gusta hacer ejericico, la música y escribir.
+
+        <p align="center">
+          <ul>
+          <li>Contacto: <a href="mailto:herre439@umn.edu">herre439@umn.edu</a></li>
+          </ul>
+        </p>
+</p>
